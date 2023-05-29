@@ -14,4 +14,9 @@ public class Test1 {
 	{
 		Reporter.log("2",true);
 	}
+	@Test
+	public void data3()
+	{
+		Reporter.log("3",true);
+	}
 }
